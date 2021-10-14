@@ -1,4 +1,4 @@
-# Capstone-Project-II
+# Capstone-Project-2
 # Simple Game
 # Project Information
 # Description
